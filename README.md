@@ -8,7 +8,7 @@ Springboot Security를 이용한 인증 예제 코드 <br>
 정상적으로 로그인이 완료되면 토큰이 발급된다<br>
 Post /api/v1/users/login<br>
 
-<br>리뷰 작성<br><br>
+<b>리뷰 작성</b><br>
 토큰 인증이 완료되면 리뷰가 등록된다<br>
 Post /api/v1/reviews<br>
 
